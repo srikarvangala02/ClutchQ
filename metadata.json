@@ -1,0 +1,8 @@
+
+{
+  "name": "FanFlow Stadium Navigator",
+  "description": "A crowdsourced platform for real-time stadium line tracking and AI-powered game-break predictions. Get rewards for reporting wait times and never miss a big play with our Pit Stop Predictor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
