@@ -16,7 +16,7 @@ st.markdown("""
 <style>
     [data-testid="stMainBlockContainer"] {
         padding-top: 2rem;
-    }
+    }   
     
     .header-title {
         text-align: center;
